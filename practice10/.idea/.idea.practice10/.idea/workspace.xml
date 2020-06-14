@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2a26d81-6489-4db7-9622-ff4558d81047" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../practice1/.idea/.idea.practice1/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice2/.idea/.idea.practice2/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice3/.idea/.idea.practice3/.idea/.idea.practice3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice3/.idea/.idea.practice3/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice4/.idea/.idea.practice4/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice5/.idea/.idea.practice5/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice6/.idea/.idea.practice6/.idea/.idea.practice6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice6/.idea/.idea.practice6/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice6/.idea/.idea.practice6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice6/.idea/.idea.practice6/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice6/.idea/.idea.practice6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice6/.idea/.idea.practice6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice6/.idea/.idea.practice6/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice6/.idea/.idea.practice6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice6/.idea/.idea.practice6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice6/.idea/.idea.practice6/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/practice10/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/practice10/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dJq71GoQqRaFunsC76CXpI5FPG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="practice10" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/practice10/practice10.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2a26d81-6489-4db7-9622-ff4558d81047" name="Default Changelist" comment="" />
+      <created>1592153372500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592153372500</updated>
+      <workItem from="1592153384494" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
