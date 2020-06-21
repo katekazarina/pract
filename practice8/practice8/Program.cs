@@ -60,6 +60,7 @@ namespace practice8
             foreach (int x in Round)
                 Console.Write(x + " ");
             Console.Write(Round[0]);
+            Console.ReadLine();
         }
 
         private static void ShowArray(List<List<int>> ar, int row, int col)
