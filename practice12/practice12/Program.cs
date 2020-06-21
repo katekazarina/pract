@@ -45,6 +45,8 @@ namespace practice12
             PrintArray(SortByChoice(array));
             Console.WriteLine();
             PyramidalSorting(TurnArray(array2));
+            
+            Console.Readline();
         }
 
         static int[] SortByChoice(int[] mas)
