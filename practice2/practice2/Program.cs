@@ -38,6 +38,7 @@ namespace practice2
             }
 
             Console.WriteLine(d);
+            Console.Readline();
         }
     }
 }
