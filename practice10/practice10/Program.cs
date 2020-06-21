@@ -13,6 +13,7 @@ namespace practice10
 
             Person.MakeRange(N);
             Console.WriteLine("Номер последнего человека - {0}", Person.DeleteM(M).Num);
+            Console.Readline();
         }
 
         class Person
