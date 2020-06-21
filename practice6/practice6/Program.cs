@@ -24,6 +24,7 @@ namespace practice6
             Console.WriteLine(
                 an.Count == N ? "Остановка! последовательность содержит N элементов" : "Остановка! ak > M");
             ShowList();
+            Console.ReadLine();
         }
 
         private static void Sequence(double ak1, double ak2, double ak3, int N, double M)
