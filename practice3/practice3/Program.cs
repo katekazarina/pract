@@ -12,6 +12,7 @@ namespace practice3
             if (x >= 0 && Math.Pow(x, 2) + Math.Pow(y, 2) <= 1 || y <= x / 2 + 1 && y >= -x / 2 - 1 && x<0)
                 Console.WriteLine("Точка принадлежит области");
             else Console.WriteLine("Точка не принадлежит области");
+            Console.Readline();
         }
 
         private static double DParse(string s)
