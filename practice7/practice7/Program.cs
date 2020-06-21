@@ -30,7 +30,7 @@ namespace practice7
                     Console.Write(OneSet[i] + " ");
                 Console.WriteLine();
             }
-            Console.ReadLine()
+            Console.ReadLine();
         }
 
         private static int IParse(string s)
