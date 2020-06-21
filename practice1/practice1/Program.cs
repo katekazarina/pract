@@ -19,6 +19,8 @@ namespace practice1
             int K = int.Parse(Console.ReadLine());
 
             Dual(P, K, N);
+            
+            Console.Readline();
         }
 
         private static void Dual(double[,] P, int K, int N)
