@@ -4,7 +4,7 @@ namespace practice9
 {
     internal class Program
     {
-                public static void Main(string[] args)
+        public static void Main(string[] args)
         {
             int size;
             Console.WriteLine("Введите кол-во элементов списка");
@@ -31,6 +31,7 @@ namespace practice9
 
             Console.WriteLine();
             Neg.ShowList("Список с отрицательными значениями: ");
+            Console.ReadLine();
         }
     }
 
