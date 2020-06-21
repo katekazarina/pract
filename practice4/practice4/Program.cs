@@ -28,7 +28,7 @@ namespace practice4
                     x1 = middle;
             }
             Console.WriteLine("Приближенное значение корня уравнения - " + middle);
-            Console.Readline();
+            Console.ReadLine();
         }
 
         private static bool CheckValue(double value)
