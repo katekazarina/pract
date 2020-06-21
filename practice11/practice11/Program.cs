@@ -33,6 +33,7 @@ namespace practice11
             Console.WriteLine();
             Console.WriteLine("б) Расшифрованный текст");
             Console.WriteLine(result);
+            Console.Readline();
         }
 
         private static void Input(int x, int y, bool right, int length, string s)
