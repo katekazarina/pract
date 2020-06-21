@@ -4,7 +4,7 @@ namespace practice11
 {
     internal class Program
     {
-                private static char[][] matrix = new char[11][];
+        private static char[][] matrix = new char[11][];
         private static string result = "";
 
         public static void Main(string[] args)
@@ -33,7 +33,7 @@ namespace practice11
             Console.WriteLine();
             Console.WriteLine("б) Расшифрованный текст");
             Console.WriteLine(result);
-            Console.Readline();
+            Console.ReadLine();
         }
 
         private static void Input(int x, int y, bool right, int length, string s)
