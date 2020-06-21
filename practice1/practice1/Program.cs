@@ -20,7 +20,7 @@ namespace practice1
 
             Dual(P, K, N);
             
-            Console.Readline();
+            Console.ReadLine();
         }
 
         private static void Dual(double[,] P, int K, int N)
