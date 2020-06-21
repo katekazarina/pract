@@ -47,6 +47,7 @@ namespace practice5
                 foreach (int item in strs)
                     Console.Write(item + " ");
             }
+            Console.ReadlLine();
         }
 
         private static List<int> SParse(int size)
